@@ -8,6 +8,7 @@
   <artifactId>jfinal-slf4j</artifactId>
   <version>0.1</version>
   <packaging>jar</packaging>
+  <name>jfinal-slf4j</name>
   <description>jfinal slf4j plugins</description>
   <url>https://github.com/Dreampie/jfinal-slf4j</url>
 
